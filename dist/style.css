@@ -130,6 +130,10 @@ body {
 #main-nav .container .contact .social-menu a {
   padding-right: 2rem;
 }
+#main-nav .container .contact .cdalogo img {
+  height: 3.4rem;
+  padding: 0.8rem;
+}
 #main-nav .container .contact .cdalogo :hover {
   background-color: var(--primary-color);
   transform: scale(110%);
