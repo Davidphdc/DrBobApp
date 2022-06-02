@@ -72,11 +72,13 @@ body {
   }
 }
 #main-nav .container .logotitle .logoimg {
-  height: 80%;
   padding-left: 1rem;
   grid-column: 1;
   grid-row: 1/3;
   align-self: center;
+}
+#main-nav .container .logotitle .logoimg img {
+  height: 80%;
 }
 #main-nav .container .logotitle h1 {
   font-size: 3rem;
