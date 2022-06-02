@@ -57,7 +57,7 @@ body {
   grid-template-rows: repeat(2, 2fr);
   gap: 1rem;
 }
-#main-nav .container .logotitle .logoimg {
+#main-nav .container .logotitle a .logoimg {
   padding-left: 1rem;
   grid-column: 1;
   grid-row: 1/3;
