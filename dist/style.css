@@ -132,7 +132,7 @@ body {
 }
 #main-nav .container .contact .cdalogo img {
   height: 3.4rem;
-  padding: 0.8rem;
+  margin: 0.8rem;
 }
 #main-nav .container .contact .cdalogo :hover {
   background-color: var(--primary-color);
