@@ -17,7 +17,7 @@ body {
   max-width: 1640;
 }
 
-.emergency-news {
+.emergency-news a {
   background-color: var(--emergency-color);
   color: var(--white-color);
   height: 1.6rem;
