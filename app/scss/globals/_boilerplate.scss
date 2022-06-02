@@ -39,9 +39,8 @@ body {
   background-attachment: fixed;
  
   @include u.breakpoint-down(small){
-    background: url("Assets/Images/bannerimage1.jpg") no-repeat center center/cover;
     height: 100vh;
-    background-position-x: left;
+    background-position-x: center;
     background-position-y: center;
         
   }
