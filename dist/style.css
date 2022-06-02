@@ -78,7 +78,8 @@ body {
   align-self: center;
 }
 #main-nav .container .logotitle .logoimg img {
-  height: 80%;
+  image-rendering: optimizeQuality;
+  size: 80%;
 }
 #main-nav .container .logotitle h1 {
   font-size: 3rem;
