@@ -1,4 +1,3 @@
-@charset "UTF-8";
 html {
   box-sizing: border-box;
   font-size: 100%;
@@ -28,7 +27,7 @@ body {
 }
 
 .bg-img {
-  background: url("d:phant\documentsÚvid Cvetkovic Writer, Designer and Artist\clients\dr Bob Cvetkovic\dr Bob Cvetkovic Website\drBobApp\dist\assets/Images/bannerimage1.JPG") no-repeat top center/cover;
+  background: url("../Assets/Images/bannerimage1.jpg") no-repeat top center/cover;
   height: 14rem;
   position: relative;
   background-attachment: fixed;
