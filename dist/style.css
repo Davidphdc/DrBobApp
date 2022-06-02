@@ -26,14 +26,14 @@ body {
   font-size: 1rem;
 }
 
-#main-nav .bg-img {
+.bg-img {
   background: url("../Assets/Images/bannerimage1.JPG") no-repeat top center/cover;
   height: 14rem;
   position: relative;
   background-attachment: fixed;
 }
 @media (max-width: 37.49875em) {
-  #main-nav .bg-img {
+  .bg-img {
     height: 100vh;
     background-position-x: left;
     background-position-y: center;
