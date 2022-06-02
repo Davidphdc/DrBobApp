@@ -134,6 +134,7 @@ body {
   height: 3.4rem;
 }
 #main-nav .container .contact .cdalogo :hover {
+  background-color: var(--primary-color);
   transform: scale(110%);
 }
 

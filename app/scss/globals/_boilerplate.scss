@@ -147,6 +147,7 @@ body {
         height: 3.4rem;
       }
       :hover {
+        background-color: var(--primary-color);
         transform: scale(110%);
       }
     }
