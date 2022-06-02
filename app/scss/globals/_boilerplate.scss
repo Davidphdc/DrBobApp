@@ -58,6 +58,8 @@ body {
   
 
   @include u.breakpoint-down(small){
+  display: flex;
+  flex-direction: column;
   
   }
   

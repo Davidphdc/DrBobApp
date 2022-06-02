@@ -50,6 +50,12 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+@media (max-width: 37.49875em) {
+  #main-nav .container {
+    display: flex;
+    flex-direction: column;
+  }
+}
 #main-nav .container .logotitle {
   padding-top: 1rem;
   display: grid;
