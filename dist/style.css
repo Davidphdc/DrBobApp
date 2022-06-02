@@ -76,7 +76,9 @@ body {
   grid-column: 1;
   grid-row: 1/3;
   align-self: center;
-  height: 50%;
+}
+#main-nav .container .logotitle .logoimg img {
+  height: 80%;
 }
 #main-nav .container .logotitle h1 {
   font-size: 3rem;
