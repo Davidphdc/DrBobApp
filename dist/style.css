@@ -72,6 +72,7 @@ body {
   }
 }
 #main-nav .container .logotitle .logoimg {
+  height: 80%;
   padding-left: 1rem;
   grid-column: 1;
   grid-row: 1/3;
