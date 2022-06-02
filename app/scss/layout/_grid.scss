@@ -1,0 +1,57 @@
+@use '../globals/util' as u;
+
+// .grid {
+//   display: grid;
+//   grid-template-columns: 1fr;
+//   grid-template-rows: auto auto;
+//   gap: u.rem(40);
+//   width: min(100%, u.rem(1460));
+//   margin-inline: auto;
+//   padding-left: 0;
+//   padding-right: 0; 
+  
+//   @include u.breakpoint(large) {
+//     grid-template-columns: 2fr 1fr;
+//     grid-template-rows: auto;
+//   }
+//   &__main,
+//   &__sidebar {
+//     padding: u.rem(40);
+//   }
+
+//   &__main {
+//     background-color: var(--background-color);
+
+//     @include u.breakpoint(medium){
+//       background-color: aqua;
+//     }
+//     @include u.breakpoint(large){
+//       background-color: green;
+//     }
+    
+//   }
+
+//   &__sidebar {
+    
+//     @include u.breakpoint-down(medium) {
+//       text-align: center;
+//     }
+
+//     @include u.breakpoint-down(small) {
+//       text-align: right;
+//     }
+//   }
+//   &__widget {    
+//     padding: u.rem(16);
+
+//     &.green {
+//     background-color: green;
+//     }
+//     &.purple{
+//     background-color: purple;
+//     }
+//     &.orange {
+//       background-color: orange;
+//     }
+//   }
+// }
