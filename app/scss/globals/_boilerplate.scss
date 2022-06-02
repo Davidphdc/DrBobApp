@@ -40,7 +40,6 @@ body {
  
   @include u.breakpoint-down(small){
     height: 100vh;
-    position: relative;
     background-position-x: left;
     background-position-y: center;
         
